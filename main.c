@@ -2,6 +2,8 @@
 int main(){
 	num=5;
 	for(int i=0;i<num;i++){
-		printf("%d",i);
+		printf("정렬: ");
+		printf("%d ",i);
 	}
+	printf("\n");
 }
